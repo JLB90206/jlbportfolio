@@ -485,7 +485,7 @@ h3.profile-title {
   position: relative;
 }
 .project-item img {
-  width: 100%;
+  width: 150%;
   display: block;
 }
 .project-item:hover .project-hover {
